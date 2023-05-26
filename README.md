@@ -1,4 +1,4 @@
-<img align="right" width="400" height="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" width="450" height="250" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
 # Hi, I'm Ahed Eid:
