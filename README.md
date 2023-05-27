@@ -11,6 +11,8 @@ Alazhar university Student. :man_technologist:
 
 :heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
 
+
+
 - :earth_americas:  I’m working as a Software Engineer and contributing to building mobile applications
 - :robot:  In my free time, I solve problems on Codewars and GeeksforGeeks and read tech articles
 - :gem:  I love attending Hackathons, meetups & tech events
