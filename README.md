@@ -22,9 +22,9 @@ Alazhar university Student. :man_technologist:
 
 <div id="header" align="center">
 
-[![GitHub Streak](https://github.com/Ahedeid)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdalrhman-Abuwarda&theme=dark&background=000000)]
 
-[![Top Langs](https://github.com/Ahedeid)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahedeid&layout=compact&theme=vision-friendly-dark)]
 
 </div>
 
