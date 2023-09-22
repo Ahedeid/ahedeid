@@ -18,6 +18,31 @@ Alazhar university Student. :man_technologist:
 - :gem:  I love attending Hackathons, meetups & tech events
 
 
+### :fire: My Stats :
+
+<div id="header" align="center">
+
+[![GitHub Streak](https://github.com/Ahedeid)]
+
+[![Top Langs](https://github.com/Ahedeid)]
+
+</div>
+
+<!--
+**Ahed Eid /Ahed-Eid ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 ## Social media :mailbox_with_no_mail:
 
 <a href="https://www.linkedin.com/in/ahed-eid-779802204" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
