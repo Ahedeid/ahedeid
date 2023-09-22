@@ -13,12 +13,19 @@ Alazhar university Student. :man_technologist:
 
 
 
+
 - :earth_americas:  I’m working as a Software Engineer and contributing to building mobile applications
 - :robot:  In my free time, I solve problems on Codewars and GeeksforGeeks and read tech articles
 - :gem:  I love attending Hackathons, meetups & tech events
 
+## Languages and Tools
+<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+#
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 <div id="header" align="center">
 
