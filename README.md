@@ -5,7 +5,7 @@
 
 Flutter developer | Software engineer :robot:. (In progress)
 
-Alazhar university Student. :man_technologist:
+Graduate of Al-Azhar University. :man_technologist:
 
 ## About me 
 
