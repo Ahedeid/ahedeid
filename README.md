@@ -18,6 +18,15 @@ Graduate of Al-Azhar University. :man_technologist:
 - :robot:  In my free time, I solve problems on Codewars and GeeksforGeeks and read tech articles
 - :gem:  I love attending Hackathons, meetups & tech events
 
+## 🛠️ Tech Stack
+
+- Flutter & Dart
+- Firebase (Auth, Firestore, FCM, Cloud Functions)
+- Riverpod, GetX, Provider for state management
+- RESTful APIs & third-party integration
+- UI/UX design implementation (Figma to Flutter)
+- Git & GitHub for version control
+
 ## Languages and Tools
 <img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
